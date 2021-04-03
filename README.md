@@ -10,6 +10,6 @@ Pig game demo.
 Guess the number game demo.
 
 ![](demoModal.gif)
-Modal window demo.
+Modal windows demo.
 
 
